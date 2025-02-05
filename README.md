@@ -43,9 +43,17 @@ MESHERY IS A CLOUD NATIVE COMPUTING FOUNDATION PROJECT
 <img src=".github/assets/images/readme/cncf-white.svg#gh-dark-mode-only" width="30%" align="center" />
 <img src=".github/assets/images/readme/cncf-black.svg#gh-light-mode-only" width="30%" align="center" />
 </div>
-
  
 <p style="clear:both;">&nbsp;</p>
+
+## Meshery Community Meetings
+
+A repo for hosting meet.layer5.io redirects
+
+| Meeting                           |  Meeting link                          | Zoom link                     |
+| --------------------------------- | -------------------------------------- | ----------------------------- |
+| Meshery Development meeting          | https://meet.meshery.io/dev         | https://zoom.us/j/94500620644 |
+| Meshery Build & Release meeting      | https://meet.meshery.io/ci          | https://zoom.us/j/95648229301 |
 
 
 <div>&nbsp;</div>

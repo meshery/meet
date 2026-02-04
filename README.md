@@ -50,9 +50,10 @@ MESHERY IS A CLOUD NATIVE COMPUTING FOUNDATION PROJECT
 
 A repo for hosting meet.meshery.io redirects
 
-| Meeting                           |  Meeting link                          | Zoom link                     |
+| Meeting                           |  Meeting link                          | Link                          |
 | --------------------------------- | -------------------------------------- | ----------------------------- |
 | Meshery Development meeting          | https://meet.meshery.io/dev         | https://zoom.us/j/94500620644 |
+| Meshery Development meeting minutes  | https://meet.meshery.io/dev-minutes | Google Doc                    |
 | Meshery Build & Release meeting      | https://meet.meshery.io/ci          | https://zoom.us/j/95648229301 |
 
 

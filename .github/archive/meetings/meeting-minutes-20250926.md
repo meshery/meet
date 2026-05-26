@@ -14,13 +14,11 @@ Send Regrets: Nikita B, Riya Garg, Aabid sofi, Tanishq Maheswari
 | CLI | [development](https://docs.google.com/spreadsheets/d/1q63sIGAuCnIeDs8PeM-0BAkNj8BBgPUXhLbe1Y-318o/edit?gid=0#gid=0) (Matthieu) | [test plan](https://docs.google.com/spreadsheets/d/13Ir4gfaKoAX9r8qYjAFFl_U9ntke4X5ndREY1T7bnVs/edit?gid=0#gid=0) (??) |
 | ----- | :---- | :---- |
 | **UI** | [development](https://docs.google.com/spreadsheets/d/1RlUcr-iLtCFCsV1VZvWD0jBijPJAx-Rk-1GLLsL9sSI/edit?gid=0#gid=0) (Amit) | [test plan](https://docs.google.com/spreadsheets/d/1Ck_5q7U_vLSIDTtplugG3pCVC5zugXgTHtO7T7-yL8g/edit?gid=1336550606#gid=1336550606) (??) |
-| *Release in-progress [v0.9.0](https://discuss.layer5.io/t/meshery-v0-9-roadmap/6296) [GitHub Milestone](https://github.com/meshery/meshery/milestone/6)* |  |  |
 
 [**Contributor Training Schedule**](https://github.com/meshery/meshery/issues/14090)**:**
 
 | \# | Topic and Component | Technology | Trainer | Date |
 | :---: | ----- | ----- | ----- | ----- |
-| 1 | [Contributing to Meshery Docs](https://docs.meshery.io/project/contributing/contributing-docs) | Hugo, Jekyll, Markdown, HTML, CSS | Zihan Kuang | April 10th | [session](https://discuss.layer5.io/t/newcomers-meeting-contributing-to-meshery-docs-april-10-2025/6885) |
 | 2 | [End-to-end Testing in Meshery CLI](https://docs.meshery.io/project/contributing/contributing-cli-tests) | Bash (BATS | Riya Garg | April 17th |
 | 3 | [Contributing to Meshery Build and Release](https://docs.meshery.io/project/contributing/build-and-release) | CI / CD, GitHub Workflows | Sangram Rath | April 24th |
 | 4 | [Contributing to Meshery CLI](https://docs.meshery.io/project/contributing/contributing-cli) | Golang, Cobra | Matthieu Evrin,Aadhitya  | April 30th |
@@ -45,7 +43,6 @@ Send Regrets: Nikita B, Riya Garg, Aabid sofi, Tanishq Maheswari
 * \[Ian Whitney\] Blog: Meshery UI e2e testing blog post  
 * \[Lee Calcote\] Blog: Meshery-Extensions github org  
 * \[Arnav Kapoor\] \- Added ResourceGraphDefinition model via mesheryctl [\#14304](https://github.com/meshery/meshery/pull/14304)  
-* \[Vivek Vishal\] \[CI\]  fix-failing-build: missing-blob \#[470](https://github.com/layer5labs/meshery-extensions-packages/pull/470)  
 * \[your name here\] \- your topic here  
 * \[Rajat\] \- [https://github.com/meshery/meshery/issues/14408](https://github.com/meshery/meshery/issues/14408)  
 * \[Mahadevan\] Present V0 of the Shape Builder  

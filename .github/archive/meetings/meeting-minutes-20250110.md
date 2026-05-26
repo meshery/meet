@@ -9,11 +9,9 @@
 * Suhani  
 * Ayan Das, Himani Sahu
 
-*Release in-progress: [v0.9.0](https://discuss.layer5.io/t/meshery-v0-9-roadmap/6296) [GitHub Milestone](https://github.com/meshery/meshery/milestone/6)*
 
 **Announcements:**
 
-* Try the new [Docker Kanvas Extension](https://hub.docker.com/r/layer5/kanvas-docker-extension) (blog post on [docker.com](https://www.docker.com/blog/compose-to-kubernetes-to-cloud-kanvas/) published on Monday). 
 
 
 ### **Topics:**

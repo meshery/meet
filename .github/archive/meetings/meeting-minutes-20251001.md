@@ -15,7 +15,6 @@
 | CLI | [development](https://docs.google.com/spreadsheets/d/1q63sIGAuCnIeDs8PeM-0BAkNj8BBgPUXhLbe1Y-318o/edit?gid=0#gid=0) (Matthieu) | [test plan](https://docs.google.com/spreadsheets/d/13Ir4gfaKoAX9r8qYjAFFl_U9ntke4X5ndREY1T7bnVs/edit?gid=0#gid=0) (??) |
 | ----- | :---- | :---- |
 | **UI** | [development](https://docs.google.com/spreadsheets/d/1RlUcr-iLtCFCsV1VZvWD0jBijPJAx-Rk-1GLLsL9sSI/edit?gid=0#gid=0) (Amit) | [test plan](https://docs.google.com/spreadsheets/d/1Ck_5q7U_vLSIDTtplugG3pCVC5zugXgTHtO7T7-yL8g/edit?gid=1336550606#gid=1336550606) (??) |
-| *Release in-progress [v0.9.0](https://discuss.layer5.io/t/meshery-v0-9-roadmap/6296) [GitHub Milestone](https://github.com/meshery/meshery/milestone/6)* |  |  |
 
 [**Contributor Training Schedule**](https://github.com/meshery/meshery/issues/14090)**:**
 
@@ -32,7 +31,6 @@
 
 **Announcements:** 
 
-* \[Recognition\]\[Security Sentinels\] \- [celebration](https://discuss.layer5.io/t/meshery-at-security-slam-kubecon-eu-2025/6840/2?u=vishalvivekm) 🎉  
 * \[Meet GSoc’25 Mentors\] [https://x.com/mesheryio/status/19097...](https://x.com/mesheryio/status/1909740016407814553)  
   
 
@@ -41,7 +39,6 @@
 **Topics**
 
 * \[Nikita B\] \- “generate yaml from json schema” \-  Let’s be schema-driven. 🙂  
-* \[Abhinav Sharma\] \[Draft Tutorial\] \- Kafka Deployment on Kubernetes Using Meshery Kanvas  
 * \[Sumit Shandilya\]  Fixed Cross-site Scripting (XSS) in prometheus\_handlers.go \#[14241](https://github.com/meshery/meshery/pull/14241)  
 * \[Riya Garg\]    
   * \[mesheryctl\] Move registry logger setup from initialisation function to PersistentPreRun of Registry command \#[14341](https://github.com/meshery/meshery/pull/14341)  
@@ -59,12 +56,10 @@
 * \[Gourav Kumar Shaw\]  
 * \[Harsh Prakash\]  
 * \[Tanishq Maheswari\]  
-        \-    Update on kanvas snapshot \[workflow being success but email not sent\]  
         \-    fix : routing between connection and meshsync [\#14336](https://github.com/meshery/meshery/pull/14336)
 
                     \-   add e2e test for import,list and design commands [\#14273](https://github.com/meshery/meshery/pull/14273)  
 
-* \[Mahadevan\] Add Switch Component to Sistent Components page [\#6380](https://github.com/layer5io/layer5/pull/6380)  
 * \[Faizan Shaik\] Update on Helm export functionality  
 * \[Zihan Kuang\] fix: restyle blockquote for better visual emphasis [\#14329](https://github.com/meshery/meshery/pull/14329)  
 * \[Aabid Sofi\]   

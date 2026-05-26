@@ -9,14 +9,9 @@
 | CLI | [development](https://docs.google.com/spreadsheets/d/1q63sIGAuCnIeDs8PeM-0BAkNj8BBgPUXhLbe1Y-318o/edit?gid=0#gid=0) (Matthieu Ervin) | [test plan](https://docs.google.com/spreadsheets/d/13Ir4gfaKoAX9r8qYjAFFl_U9ntke4X5ndREY1T7bnVs/edit?gid=0#gid=0) (*vacant)* |
 | ----- | :---- | :---- |
 | **UI** | [development](https://docs.google.com/spreadsheets/d/1RlUcr-iLtCFCsV1VZvWD0jBijPJAx-Rk-1GLLsL9sSI/edit?gid=0#gid=0) (*vacant*) | [test plan](https://docs.google.com/spreadsheets/d/13Ir4gfaKoAX9r8qYjAFFl_U9ntke4X5ndREY1T7bnVs/edit?gid=0#gid=0) (Ian Whitney) |
-| *Release in-progress [v0.9.0](https://discuss.layer5.io/t/meshery-v0-9-roadmap/6296) [GitHub Milestone](https://github.com/meshery/meshery/milestone/6)* |  |  |
 
 **Announcements:**
 
-* [Meshery@KubeCon NA](https://layer5.io/community/events/kubecon-cloudnativecon-north-america-2025) \- join in\!  
-* [Certified Meshery Contributor Certification](https://cloud.layer5.io/academy/certifications/c5ada327-8a58-4c8a-b9fa-51b95696488c/certified-meshery-contributor) now available\!  
-  * [Certification tiers](https://kanvas.new/extension/meshmap?mode=design&design=c2141477-379b-432e-b47e-1c89600235a5) ([screenshot](https://01664134446003896604.googlegroups.com/attach/519052fbecc75/Screenshot%202025-10-03%20at%201.27.55%E2%80%AFPM.png?part=0.1.1&view=1&vt=ANaJVrFnA8TkyhF8mXfU-kjfWL30gS1Pv1gbB20JwZCLrdh3WW3ImGIOKhUwRBbKirvL4HztlnEBzDetUuE1L6iEOmGYSiBGl3NxeJhnx9VsJIOzb6DePeM))  
-  * [See all certificates and badges](https://badges.layer5.io)
 
 ### **Topics:**
 
@@ -39,7 +34,6 @@ October 8th, 2025
 | CLI | [development](https://docs.google.com/spreadsheets/d/1q63sIGAuCnIeDs8PeM-0BAkNj8BBgPUXhLbe1Y-318o/edit?gid=0#gid=0) (Matthieu Ervin) | [test plan](https://docs.google.com/spreadsheets/d/13Ir4gfaKoAX9r8qYjAFFl_U9ntke4X5ndREY1T7bnVs/edit?gid=0#gid=0) (*vacant)* |
 | ----- | :---- | :---- |
 | **UI** | [development](https://docs.google.com/spreadsheets/d/1RlUcr-iLtCFCsV1VZvWD0jBijPJAx-Rk-1GLLsL9sSI/edit?gid=0#gid=0) (*vacant*) | [test plan](https://docs.google.com/spreadsheets/d/13Ir4gfaKoAX9r8qYjAFFl_U9ntke4X5ndREY1T7bnVs/edit?gid=0#gid=0) (Ian Whitney) |
-| *Release in-progress [v0.9.0](https://discuss.layer5.io/t/meshery-v0-9-roadmap/6296) [GitHub Milestone](https://github.com/meshery/meshery/milestone/6)* |  |  |
 
 **Announcements:**  
 **Backlog:**
@@ -48,8 +42,6 @@ October 8th, 2025
 
 ### **Topics:**
 
-* \[Wyllie Fang\] \- Created Academy Content Template Creator Guide with the creation of a Meshery Contributors certification as an example [\#](https://github.com/layer5io/docs/pull/820)820  
-  1. call for add New Certification Badge: Meshery Certified Contributor (CMC)  and others \#[540](https://github.com/layer5labs/meshery-extensions-packages/issues/540)  
 * \[Aabid\] \- Add support for hardcoding provider capabilities as a file  
 * \[Mathtieu Evrin\] \- mesheryctl component view [\#16139](https://github.com/meshery/meshery/pull/16139/files)  
 * \[Name\] \- item  

@@ -19,7 +19,6 @@
 **Standing Agenda**
 
 * Component updates: [mesheryctl](https://docs.google.com/spreadsheets/d/1q63sIGAuCnIeDs8PeM-0BAkNj8BBgPUXhLbe1Y-318o/edit?gid=0#gid=0) (Matthew), [UI migration](https://docs.google.com/spreadsheets/d/1RlUcr-iLtCFCsV1VZvWD0jBijPJAx-Rk-1GLLsL9sSI/edit?gid=0#gid=0) (Amit),   
-* Release Planning: [Test plan](https://docs.google.com/spreadsheets/d/13Ir4gfaKoAX9r8qYjAFFl_U9ntke4X5ndREY1T7bnVs/edit?gid=0#gid=0), [v0.9.0](https://discuss.layer5.io/t/meshery-v0-9-roadmap/6296) [GitHub Milestone](https://github.com/meshery/meshery/milestone/6)
 
 **Topics**
 
@@ -37,14 +36,10 @@
 * \[Pratik\]  \[CI\] Added test for session logout \#[13717](https://github.com/meshery/meshery/pull/13717)  
 * \[Harsh Prakash\]   
   * fix : Replace FontAwesome icons with Sistent icons \#[13742](https://github.com/meshery/meshery/pull/13742)   
-  * fix : Footer Repetition (Hydration Issue) [\#6244](https://github.com/layer5io/layer5/issues/6244#event-16435558375)  
 * \[Anuj\]  \[e2e\] \- Increased coverage on homepage (Performance) \#[13725](https://github.com/meshery/meshery/pull/13725)  
 * \[Souvik\]   
-  * Improved interaction of connection card in meshery cloud under integration ([PR](https://github.com/layer5io/meshery-cloud/pull/3231))  
-  * Fix duplicate connection registration ([PR](https://github.com/layer5io/meshery-cloud/pull/3226))  
   * GitHub import wizard UI improvements  
 * \[Riya Garg\] \- Fixes for import model modal \- [\#689](https://github.com/meshery/meshkit/pull/689) 	  
-* \[Ijeoma Eti \- Update on sending helm-kanvas-snapshot to email \# [101](https://github.com/meshery/helm-kanvas-snapshot/pull/101)   
 * \[Aabid Sofi\] fixing extension bugs  
 * \[Lee Calcote\] Proposal for meshery-extensions github org and move all adapters into that org.  
   * The [kubernetes-sigs](https://github.com/kubernetes-sigs) organization is primarily intended to house net-new projects originally created in that organization. However, projects that a SIG adopts may also be donated. Examples: [https://github.com/crossplane-contrib](https://github.com/crossplane-contrib)  

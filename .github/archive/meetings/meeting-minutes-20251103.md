@@ -15,10 +15,8 @@
 
 **Announcements**
 
-* Congratulations Mia Grenell ([gh](https://github.com/miacycle), [l5](https://layer5.io/community/members/mia-grenell)), our new Meshery Maintainer, Docs.   
 * KubeCon EU 2025 Security Slam [preparation and participation](https://docs.google.com/document/d/15gFHw-A6uOchW-0U54-C6Miwv7sjvHFayynwboZwCbc/edit?tab=t.0).  
   * Yash Sharma, Sangram Rath  
-* KubeCon and Cloud Native Rejekts Europe 2025 [talks](https://layer5.io/community/events/kubecon-cloudnativecon-europe-2025),   
   * KubeCon China (Yash Sharma), KubeCon Japan (Sangram Rath) (potentially grab a booth \- Yash)  
 * Help Wanted: \[Blog\] Meshery Reaches 7,000 Stars [\#2078](https://github.com/meshery/meshery.io/issues/2078)  
 * Help Wanted: \[Blog\] Meshery is the 9th highest velocity CNCF project [\#2063](https://github.com/meshery/meshery.io/issues/2063)
@@ -27,12 +25,10 @@
 | ----- | :---- | :---- |
 | **CLI** | [development](https://docs.google.com/spreadsheets/d/1q63sIGAuCnIeDs8PeM-0BAkNj8BBgPUXhLbe1Y-318o/edit?gid=0#gid=0) (Matthieu) | [test plan](https://docs.google.com/spreadsheets/d/13Ir4gfaKoAX9r8qYjAFFl_U9ntke4X5ndREY1T7bnVs/edit?gid=0#gid=0) (??) |
 | **UI** | [development](https://docs.google.com/spreadsheets/d/1RlUcr-iLtCFCsV1VZvWD0jBijPJAx-Rk-1GLLsL9sSI/edit?gid=0#gid=0) (Amit) | [test plan](https://docs.google.com/spreadsheets/d/1Ck_5q7U_vLSIDTtplugG3pCVC5zugXgTHtO7T7-yL8g/edit?gid=1336550606#gid=1336550606) (??) |
-| *Release [v0.9.0](https://discuss.layer5.io/t/meshery-v0-9-roadmap/6296) [GitHub Milestone](https://github.com/meshery/meshery/milestone/6)* |  |  |
 
 **Topics**
 
 * \[Gourav Kumar Shaw\] Subcommands test coverage  
-* \[KS Mahadevan\] Fix Local Development Setup For Sistent Site [\#976](https://github.com/layer5io/sistent/pull/977)  
 * \[Kushal Bankhede\]  update ui (ex: logo, icons) using Sistent [\#14020](https://github.com/meshery/meshery/pull/14020)  
 * \[Matthieu EVRIN\]\[mesheryctl\]   
   * \[Help wanted\] Bats e2e testing [contribution guideline](https://docs.meshery.io/project/contributing/contributing-cli-tests)  
@@ -47,7 +43,6 @@
   * e2e tests for mesheryctl model import [\#14060](https://github.com/meshery/meshery/pull/14060)  
   * [Move registry utility functions to meshkit](https://github.com/meshery/meshery/pull/14060) [\#13734](https://github.com/meshery/meshery/pull/13734)  
   * Add csv import in model import command [\#14061](https://github.com/meshery/meshery/pull/14061)  
-* \[Ijeoma Eti\] Send Kanvas snapshot to email (if provided) [\#146](https://github.com/layer5labs/kanvas-snapshot/pull/146)  
 * \[Ian\] feat: refactored bats setup [\#14027](https://github.com/meshery/meshery/pull/14027)  
 * \[Falgun Patel\] \[GrafanaComponent\] [\#14041](https://github.com/meshery/meshery/pull/14041) [\#14040](https://github.com/meshery/meshery/pull/14040)  
 * \[Amritesh\] used theme palette \#[14003](https://github.com/meshery/meshery/pull/14003)  

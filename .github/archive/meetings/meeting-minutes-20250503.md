@@ -16,7 +16,6 @@
 | CLI | [development](https://docs.google.com/spreadsheets/d/1q63sIGAuCnIeDs8PeM-0BAkNj8BBgPUXhLbe1Y-318o/edit?gid=0#gid=0) (Matthieu Ervin) | [test plan](https://docs.google.com/spreadsheets/d/13Ir4gfaKoAX9r8qYjAFFl_U9ntke4X5ndREY1T7bnVs/edit?gid=0#gid=0) (*vacant)* |
 | ----- | :---- | :---- |
 | **UI** | [development](https://docs.google.com/spreadsheets/d/1RlUcr-iLtCFCsV1VZvWD0jBijPJAx-Rk-1GLLsL9sSI/edit?gid=0#gid=0) (*vacant*) | [test plan](https://docs.google.com/spreadsheets/d/13Ir4gfaKoAX9r8qYjAFFl_U9ntke4X5ndREY1T7bnVs/edit?gid=0#gid=0) (Ian Whitney) |
-| *Release in-progress [v0.9.0](https://discuss.layer5.io/t/meshery-v0-9-roadmap/6296) [GitHub Milestone](https://github.com/meshery/meshery/milestone/6)* |  |  |
 
 ### **Announcements:**
 
@@ -31,18 +30,14 @@
 
 * \[Swati Tripathi\] \- \[agenda-item [fix broken link on contribution guide page](https://github.com/meshery/meshery/pull/15509)\]  
 * Vatsal Kumar- [Added server side UUID validation](https://github.com/meshery/meshery/pull/15584#issuecomment-3201832311)  
-* \[Zihan Kuang\] Add User Invitations documentation [\#789](https://github.com/layer5io/docs/pull/789)  
-* \[Lee Calcote\] Needed: [Meshery v0.9](https://discuss.layer5.io/t/meshery-v0-9-roadmap/6296) Release Readiness Review  
 * \[Faheem Mushtaq\]: Working on the connectivity-buttons: \#[15454](https://github.com/meshery/meshery/issues/15454)  
   		Add helperIcon to connectivity states \#[15628](https://github.com/meshery/meshery/issues/15628)  
-* \[Wyllie Fang\] Consolidate CTA button and add links to Badge and Kanvas \# [6726](https://github.com/layer5io/layer5/pull/6726)  
   * Outline for Production Deployment Considerations \#[15573](https://github.com/meshery/meshery/pull/15573)  
 * \[Nikita B\] take into account more fields from kubecfong when applying helm chart [meshkit\#792](https://github.com/meshery/meshkit/pull/792)     
 * \[Nikita B\] fix failing tests in mesheryctl for “model init” and “model build” [meshery\#15624](https://github.com/meshery/meshery/pull/15624)    
 * \[Shashaank Srivastava\] Added Mesheryctl perf delete command [PR \#15626](https://github.com/meshery/meshery/pull/15626)  
 * \[Ahmed Hossam\] Suggestion for our e2e tests  
 * \[Aditi Mehta\] Update on Nighthawk load generator \#15026  
-* \[Naman Verma\] : Academy add-on pricing PR[\#6728](https://github.com/layer5io/layer5/pull/6728) , Comparison Update PR[\#6733](https://github.com/layer5io/layer5/pull/6733)
 
 **Open Issues:**
 

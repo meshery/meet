@@ -20,7 +20,6 @@
 | CLI | [development](https://docs.google.com/spreadsheets/d/1q63sIGAuCnIeDs8PeM-0BAkNj8BBgPUXhLbe1Y-318o/edit?gid=0#gid=0) (Matthieu) | [test plan](https://docs.google.com/spreadsheets/d/13Ir4gfaKoAX9r8qYjAFFl_U9ntke4X5ndREY1T7bnVs/edit?gid=0#gid=0) (??) |
 | ----- | :---- | :---- |
 | **UI** | [development](https://docs.google.com/spreadsheets/d/1RlUcr-iLtCFCsV1VZvWD0jBijPJAx-Rk-1GLLsL9sSI/edit?gid=0#gid=0) (Amit) | [test plan](https://docs.google.com/spreadsheets/d/1Ck_5q7U_vLSIDTtplugG3pCVC5zugXgTHtO7T7-yL8g/edit?gid=1336550606#gid=1336550606) (??) |
-| *Release in-progress [v0.9.0](https://discuss.layer5.io/t/meshery-v0-9-roadmap/6296) [GitHub Milestone](https://github.com/meshery/meshery/milestone/6)* |  |  |
 
 [**Contributor Training Schedule**](https://github.com/meshery/meshery/issues/14090)**:**
 
@@ -49,7 +48,6 @@
 **Topics**
 
 * \[Nikita B\] model init command  
-* \[Ijeoma\] \- list Kanvas Snapshot Helm Plugin in extension page [\#14224](https://github.com/meshery/meshery/pull/14224)  
 * \[Prajwal KP\]  Set appropriate permissions for GitHub workflows \#[14168](https://github.com/meshery/meshery/pull/14168)  
 * \[Varad Gupta\]  Fix: Optimize Playwright Test Performance in CI/CD \#[14195](https://github.com/meshery/meshery/pull/14195)  
   	             Fix: Flaky Connection UI Tests \#[14233](https://github.com/meshery/meshery/pull/14233)  
@@ -66,7 +64,6 @@
       * reuse common Fetch, List methods \+ Add tests  
 * \[Mahadevan, Karan\] Feat: create programs layout [\#2085](https://github.com/meshery/meshery.io/pull/2085)  
 * \[Tanishq Maheswari\]\[review\] fix : routing between meshsync and connection [\#14067](https://github.com/meshery/meshery/pull/14067)  
-* \[Zihan Kuang\] docs: update account deletion and linking behavior [\#477](https://github.com/layer5io/docs/pull/477)  
 * \[Gourav Kumar Shaw\] mesheryctl registry generate spreadsheet URL fix.merge \#[14087](https://github.com/meshery/meshery/pull/14087)  
 * \[Amit Amrutiya\] \[call for volunteers\] migrating axios/fetch to rtk query  
 * Faheem \- Fix all regression issues pending in meshery cloud  

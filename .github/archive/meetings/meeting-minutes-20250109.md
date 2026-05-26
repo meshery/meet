@@ -8,12 +8,10 @@
 * Raunak Madan, Suhani, Kishore B, Ayan, Chetan Jangir, Parthiv Saikia, Hansuja Budhiraja, Kavitha Karunakaran, Yelsin Sepulveda Jeet Burman
 
 
-*Release in-progress: [v0.9.0](https://discuss.layer5.io/t/meshery-v0-9-roadmap/6296) [GitHub Milestone](https://github.com/meshery/meshery/milestone/6)*
 
 ### **Topics:**
 
 * \[Parthiv Saikia\] \[Model generation errors \]  
-* \[Himani Sahu\] \[[Add a new Kanvas Tutorial](https://github.com/meshery/meshery/pull/16659) [\#16659](https://github.com/meshery/meshery/pull/16659)\]  
 * \[Suhani & Raunak\] ESLint CI Fix  
   * PR: [\#16661](https://github.com/meshery/meshery/pull/16661) | Issue: [\#16657](https://github.com/meshery/meshery/issues/16657)  
   * Problem: ESLint CI was failing on fork-based PRs because it tried to auto-fix and commit code.  

@@ -16,7 +16,6 @@
 | CLI | [development](https://docs.google.com/spreadsheets/d/1q63sIGAuCnIeDs8PeM-0BAkNj8BBgPUXhLbe1Y-318o/edit?gid=0#gid=0) (Matthieu) | [test plan](https://docs.google.com/spreadsheets/d/13Ir4gfaKoAX9r8qYjAFFl_U9ntke4X5ndREY1T7bnVs/edit?gid=0#gid=0) (??) |
 | ----- | :---- | :---- |
 | **UI** | [development](https://docs.google.com/spreadsheets/d/1RlUcr-iLtCFCsV1VZvWD0jBijPJAx-Rk-1GLLsL9sSI/edit?gid=0#gid=0) (Amit) | [test plan](https://docs.google.com/spreadsheets/d/1Ck_5q7U_vLSIDTtplugG3pCVC5zugXgTHtO7T7-yL8g/edit?gid=1336550606#gid=1336550606) (??) |
-| *Release in-progress [v0.9.0](https://discuss.layer5.io/t/meshery-v0-9-roadmap/6296) [GitHub Milestone](https://github.com/meshery/meshery/milestone/6)* |  |  |
 
 [**Contributor Training Schedule**](https://github.com/meshery/meshery/issues/14090)**:**
 
@@ -34,7 +33,6 @@
 * \[Faizan Shaik\] Update on kubectl MeshSync Snapshot plugin progress and current blockers  
 * New Contributor Training Schedule in [Newcomers Meeting](https://docs.google.com/document/u/0/d/1aHarIyIL__HRq_4klYOUsEXP5SQLlmb50W17yKdNmpU/edit)  
 * \[Tanishq Maheshwari\]   
-* Kubectl Kanvas Snapshot plugin  
 *  \[UI\] fix: routing between connections and meshsync \#[14067](https://github.com/meshery/meshery/pull/14067)  
 * \[Nikita B\] generate json documents from json schema as a part of model init subcommand development;  
 * \[Matthieu EVRIN\]   

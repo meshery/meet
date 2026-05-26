@@ -14,7 +14,6 @@
 | CLI | [development](https://docs.google.com/spreadsheets/d/1q63sIGAuCnIeDs8PeM-0BAkNj8BBgPUXhLbe1Y-318o/edit?gid=0#gid=0) (Matthieu Ervin) | [test plan](https://docs.google.com/spreadsheets/d/13Ir4gfaKoAX9r8qYjAFFl_U9ntke4X5ndREY1T7bnVs/edit?gid=0#gid=0) (*vacant)* |
 | ----- | :---- | :---- |
 | **UI** | [development](https://docs.google.com/spreadsheets/d/1RlUcr-iLtCFCsV1VZvWD0jBijPJAx-Rk-1GLLsL9sSI/edit?gid=0#gid=0) (*vacant*) | [test plan](https://docs.google.com/spreadsheets/d/13Ir4gfaKoAX9r8qYjAFFl_U9ntke4X5ndREY1T7bnVs/edit?gid=0#gid=0) (Ian Whitney) |
-| *Release in-progress [v0.9.0](https://discuss.layer5.io/t/meshery-v0-9-roadmap/6296) [GitHub Milestone](https://github.com/meshery/meshery/milestone/6)* |  |  |
 
 ### **Announcements:**
 
@@ -32,7 +31,6 @@
 * \[Yash Sharma\] Upcoming Hacktober Planning Discussion  
 * \[Lee Calcote\] Playground Provider proposal  
 * \[ Aabid \] proposal : A new meshery org  for academy  
-* \[Aryan Shah\] Master Design HyperLink in meshery-design-embed [\#PR 527](https://github.com/layer5labs/meshery-extensions-packages/pull/527)  
 * \[Ritesh\] support ignored as valid status value in CSV input [\#PR780](https://github.com/meshery/meshkit/pull/780)  
 * \[Nikita B\] add events propagation to meshery controller helper [meshery\#15782](https://github.com/meshery/meshery/pull/15782)  
 * \[Nikita B\] enhance meshkit logger to log caller info  [meshkit\#800](https://github.com/meshery/meshkit/pull/800) and [meshkit\#801](https://github.com/meshery/meshkit/pull/801) and [meshery\#15778](https://github.com/meshery/meshery/pull/15778)  

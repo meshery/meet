@@ -18,14 +18,11 @@
 | CLI | [development](https://docs.google.com/spreadsheets/d/1q63sIGAuCnIeDs8PeM-0BAkNj8BBgPUXhLbe1Y-318o/edit?gid=0#gid=0) (Matthieu) | [test plan](https://docs.google.com/spreadsheets/d/13Ir4gfaKoAX9r8qYjAFFl_U9ntke4X5ndREY1T7bnVs/edit?gid=0#gid=0) (??) |
 | ----- | :---- | :---- |
 | **UI** | [development](https://docs.google.com/spreadsheets/d/1RlUcr-iLtCFCsV1VZvWD0jBijPJAx-Rk-1GLLsL9sSI/edit?gid=0#gid=0) (Amit) | [test plan](https://docs.google.com/spreadsheets/d/1Ck_5q7U_vLSIDTtplugG3pCVC5zugXgTHtO7T7-yL8g/edit?gid=1336550606#gid=1336550606) (??) |
-| *Release in-progress [v0.9.0](https://discuss.layer5.io/t/meshery-v0-9-roadmap/6296) [GitHub Milestone](https://github.com/meshery/meshery/milestone/6)* |  |  |
 
 [**Contributor Training Schedule**](https://github.com/meshery/meshery/issues/14090)**:**
 
 | \# | Topic and Component | Technology | Trainer | Date |
 | :---: | ----- | ----- | ----- | ----- |
-| 1 | [Contributing to Meshery Docs](https://docs.meshery.io/project/contributing/contributing-docs) | Hugo, Jekyll, Markdown, HTML, CSS | Zihan Kuang | April 10th | [session](https://discuss.layer5.io/t/newcomers-meeting-contributing-to-meshery-docs-april-10-2025/6885) |
-| 2 | [End-to-end Testing in Meshery CLI](https://docs.meshery.io/project/contributing/contributing-cli-tests) | Bash (BATS | Riya Garg | April 17th | [session](https://discuss.layer5.io/t/newcomers-meeting-end-to-end-testing-in-meshery-cli-using-bats-april-17-2025/6897?u=vishalvivekm) |
 | 3 | [Contributing to Meshery Build and Release](https://docs.meshery.io/project/contributing/build-and-release) | CI / CD, GitHub Workflows | Sangram Rath | April 24th |
 | 4 | [Contributing to Meshery CLI](https://docs.meshery.io/project/contributing/contributing-cli) | Golang, Cobra | Matthieu Evrin,Aadhitya | April 30th |
 | 5 | [End-to-end Testing in Meshery UI](https://docs.meshery.io/project/contributing/contributing-ui-tests#:~:text=To%20automate%20functional%20integration%20and,not%20break%20the%20existing%20functionality.) | Playwright | Ian Whitney | \! May 8th |
@@ -54,8 +51,6 @@
   * Improve Source URL errors [\#709](https://github.com/meshery/meshkit/pull/709/) ,   
   * Making model import consistent with UI [\#14061](https://github.com/meshery/meshery/pull/14061) ,   
   * model import e2e tests [\#14060](https://github.com/meshery/meshery/pull/14060)  
-* \[Zihan Kuang\] docs: improve image customization guidance and clean up broken links [\#489](https://github.com/layer5io/docs/pull/489)  
-* Faheem \- Working on some minor cloud issues [\#3422](https://github.com/layer5io/meshery-cloud/pull/3422)  
 * \[Aabid Sofi\] Add support for exporting designs to helm charts   
 * \[Amit Amrutiya\] Enhance workspace table and add workspace switcher  
 *

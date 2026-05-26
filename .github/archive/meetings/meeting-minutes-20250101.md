@@ -4,7 +4,6 @@
 
 * 
 
-*Release in-progress: [v0.9.0](https://discuss.layer5.io/t/meshery-v0-9-roadmap/6296) [GitHub Milestone](https://github.com/meshery/meshery/milestone/6)*
 
 ### **Topics:**
 
